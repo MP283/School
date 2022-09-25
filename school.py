@@ -59,3 +59,20 @@
 #     i = i + 1
 
 ######################################################
+
+# print the no. of tables user gave[ eg:- 5; table of 1,2,3,4,5]
+######################################################
+# num = int(input("input no."))
+
+# x = 1
+
+# while x <= num:
+#     for i in range(1, 11, 1):
+#         print(x, "X", i, "=", x*i , "   ", end='')
+        
+#     print("")
+#     print("Finished the table of ", x)
+#     print("")
+#     x = x + 1
+
+######################################################
