@@ -77,22 +77,26 @@
 
 ######################################################
 
-print("")
+# print all prime no. between 1 to 100
+######################################################
+# print("")
 
-n = 1
+# n = 1
 
-count = 0
+# count = 0
 
-print("All prime numbers between 1 to 100 are")
-while n <= 100:
-    for i in range(1, n+1, 1):
-        if n%i==0:
-            count = count + 1
+# print("All prime numbers between 1 to 100 are")
+# while n <= 100:
+#     for i in range(1, n+1, 1):
+#         if n%i==0:
+#             count = count + 1
             
             
     
-    if count <= 2:
-        print(n, end='  ')
+#     if count <= 2:
+#         print(n, end='  ')
 
-    count = 0
-    n = n +1
+#     count = 0
+#     n = n +1
+    
+######################################################
