@@ -116,3 +116,44 @@
 # end_fill()
 
 ######################################################
+
+#print in ascending order
+######################################################
+# num1 = int(input("ENTER NO. 1 :- "))
+# num2 = int(input("ENTER NO. 2 :- "))
+# num3 = int(input("ENTER NO. 3 :- "))
+
+
+# if (num1 < num2) and (num2 < num3):
+#     a = num1
+#     b = num2
+#     c = num3
+
+# elif (num2 < num3) and (num3 < num1):
+#     a = num2
+#     b = num3
+#     c = num1
+
+# elif (num3 < num1) and (num1 < num2):
+#     a = num3
+#     b = num1
+#     c = num2
+
+# elif (num3 < num2) and (num2 < num1):
+#     a = num3
+#     b = num2
+#     c = num1
+
+# elif (num1 < num3) and (num3 < num2):
+#     a = num1
+#     b = num3
+#     c = num2
+
+# else:
+#     a = num2
+#     b = num1
+#     c = num3
+
+# print(a,b,c)
+
+# ######################################################
